@@ -1,2 +1,2 @@
 # demo-fall-2021
-This is a demo repository for CDM fall 2021
+This is a demo repository for CDM fall 2021. There are now two tracks in this rough mix. One is a stereo track of background music: airtone_-_nightWalk.mp3. The other is a recording of me reading from the introduction of HTML & CSS by Jon Duckett. I plan on adjusting the volume so that the spoken track will be louder relative to the background music, and I would like to use the Auto Ducking tool to make the music volume rise and then fall when there are gaps in the spoken track.
